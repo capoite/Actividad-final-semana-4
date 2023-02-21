@@ -1,0 +1,15 @@
+1. Establecer precios y recargos extras por cada condicion.
+2. Mostrar mensajes para poder saber si aplica o no aplica recargo.
+3. Pedir cantidades para establecer de cuanto sera el recargo extra.
+4. Dependiendo la edad se le cobrara un cargo extra, entre 18-24 sera del10% 
+entre 25-49 se le hara el recargo del 20% y si es de 50 a mayor sera del 30%
+5. punto 4 aplicara de igual manera si es casado y los valores seran iguales
+para la edad del conyugue.
+6. si tiene hijos se le hara recargo del 20% por cada hijo.
+7. se le hara recargo del 35% por la cantidad de propiedades que tenga solo si 
+tiene propiedades.
+8. se le hara recargo del 5% sobre su salario dependiendo de la cantidad.
+9. el recargo sera en base al multiplicar los valores de los recargos por el valor ingresado.
+10. y el Precio final sera en base a la suma del precio base mas el recargo.
+11. Al final mostrara mensajes de alerta con el nombre del asegurado dando el
+glosario del recargo mas el precio final.

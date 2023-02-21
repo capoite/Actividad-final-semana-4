@@ -1,0 +1,6 @@
+El cliente duenio de la aseguradora presento el problema que sus cotizaciones
+se hacian manualmente y eso provocaba que se perdieran clientes por el hecho
+de estar esperando tanto tiempo o porque no querian estar llenando estos datos
+a mano, entonces el problema es de que su metodo es muy lento y el guardar tantos
+datos de clientes por cotizaciones en papel puede causar la perdida del mismo
+en muchas maneras.
